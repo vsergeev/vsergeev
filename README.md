@@ -31,6 +31,7 @@
 
 ### 3D Models
 
+* [3d-ned-bait-holder](https://github.com/vsergeev/3d-ned-bait-holder) - 3D printable container for Ned rig baits made with OpenSCAD
 * [3d-powder-flask-spout](https://github.com/vsergeev/3d-powder-flask-spout) - 3D printable parametric black powder flask spout made with OpenSCAD
 * [3d-simple-iso-thread](https://github.com/vsergeev/3d-simple-iso-thread) - Simple, single-file modeled ISO thread module for OpenSCAD
 * [3d-holster-claw](https://github.com/vsergeev/3d-holster-claw) - 3D printable holster claw accessory made with Fusion 360

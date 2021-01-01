@@ -64,3 +64,5 @@
 * [mbed-cmsis](https://github.com/vsergeev/mbed-cmsis) - Guide for building your own CMSIS Code for the mbed
 * [cmsis-templates](https://github.com/vsergeev/cmsis-templates) - CMSIS v3.20 Bootstrapping Templates for GNU ARM Tools
 * [qrd](https://github.com/vsergeev/qrd) - Simple QR Code decoder for educational purposes
+
+<p align="center"><a href="https://www.buymeacoffee.com/vsergeev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=vsergeev&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a></p align="center">

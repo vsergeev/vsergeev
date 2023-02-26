@@ -5,6 +5,7 @@
 * [lua-periphery](https://github.com/vsergeev/lua-periphery) - Lua library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux
 * [c-periphery](https://github.com/vsergeev/c-periphery) - C library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux
 * [u-msgpack-python](https://github.com/vsergeev/u-msgpack-python) - Portable, lightweight MessagePack serializer and deserializer written in pure Python
+* [briefsky](https://github.com/vsergeev/briefsky) - Weather frontend to a variety of weather providers
 
 ### Software
 

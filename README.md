@@ -33,6 +33,15 @@
 
 ### 3D Models
 
+* [3d-smartipi-touch-2-speaker-dock](https://github.com/vsergeev/3d-smartipi-touch-2-speaker-dock) - 3D printable speaker dock for the SmartiPi Touch 2 case made with OpenSCAD
+* [3d-slotted-float](https://github.com/vsergeev/3d-slotted-float) - 3D printable parametric slotted float made with OpenSCAD
+* [3d-hook-clip](https://github.com/vsergeev/3d-hook-clip) - 3D printable parametric hook clip made with OpenSCAD
+* [3d-flosser-holder](https://github.com/vsergeev/3d-flosser-holder) - 3D printable flosser holder made with OpenSCAD
+* [3d-trimmer-tray](https://github.com/vsergeev/3d-trimmer-tray) - 3D printable parametric trimmer tray made with OpenSCAD
+* [3d-closet-rod-endcap](https://github.com/vsergeev/3d-closet-rod-endcap) - 3D printable parametric closet rod end cap made with OpenSCAD
+* [3d-door-latch-spacer](https://github.com/vsergeev/3d-door-latch-spacer) - 3D printable door latch spacer made with OpenSCAD
+* [3d-door-strike-spacer](https://github.com/vsergeev/3d-door-strike-spacer) - 3D printable door strike spacer made with OpenSCAD
+* [3d-mini-turntable](https://github.com/vsergeev/3d-mini-turntable) - 3D printable miniature motorized turntable for small objects made with OpenSCAD
 * [3d-jewelry-box](https://github.com/vsergeev/3d-jewelry-box) - 3D printable jewelry box made with OpenSCAD
 * [3d-ned-bait-holder](https://github.com/vsergeev/3d-ned-bait-holder) - 3D printable container for Ned rig baits made with OpenSCAD
 * [3d-powder-flask-spout](https://github.com/vsergeev/3d-powder-flask-spout) - 3D printable parametric black powder flask spout made with OpenSCAD

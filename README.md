@@ -34,6 +34,7 @@
 
 ### 3D Models
 
+* [3d-parametric-whoop](https://github.com/vsergeev/3d-parametric-whoop) - 3D printable parametric whoop frame and canopy (FPV drone) made with OpenSCAD
 * [3d-smartipi-touch-2-speaker-dock](https://github.com/vsergeev/3d-smartipi-touch-2-speaker-dock) - 3D printable speaker dock for the SmartiPi Touch 2 case made with OpenSCAD
 * [3d-slotted-float](https://github.com/vsergeev/3d-slotted-float) - 3D printable parametric slotted float made with OpenSCAD
 * [3d-hook-clip](https://github.com/vsergeev/3d-hook-clip) - 3D printable parametric hook clip made with OpenSCAD

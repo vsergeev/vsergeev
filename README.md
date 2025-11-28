@@ -1,7 +1,7 @@
 ### Primary
 
-* [luaradio](https://github.com/vsergeev/luaradio) - Lightweight, embeddable software-defined radio framework built on LuaJIT
 * [zigradio](https://github.com/vsergeev/zigradio) - Lightweight software-defined radio framework built with Zig
+* [luaradio](https://github.com/vsergeev/luaradio) - Lightweight, embeddable software-defined radio framework built on LuaJIT
 * [python-periphery](https://github.com/vsergeev/python-periphery) - Pure Python 2/3 library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux
 * [lua-periphery](https://github.com/vsergeev/lua-periphery) - Lua library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux
 * [c-periphery](https://github.com/vsergeev/c-periphery) - C library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux

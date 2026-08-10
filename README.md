@@ -40,6 +40,7 @@
 * [3d-parametric-whoop-canopy](https://github.com/vsergeev/3d-parametric-whoop-canopy) - 3D printable parametric whoop canopy for FPV drones made with OpenSCAD
 * [3d-parametric-whoop](https://github.com/vsergeev/3d-parametric-whoop) - 3D printable parametric whoop frame and canopy (FPV drone) made with OpenSCAD
 * [3d-1s-lipo-battery-tray](https://github.com/vsergeev/3d-1s-lipo-battery-tray) - 3D printable parametric 1S LiPo battery tray made with OpenSCAD
+* [3d-yarn-gauge](https://github.com/vsergeev/3d-yarn-gauge) - 3D printable and CNC machineable yarn gauge made with FreeCAD
 * [3d-acrylic-light-stand](https://github.com/vsergeev/3d-acrylic-light-stand) - 3D printable parametric acrylic light stand made with FreeCAD
 * [3d-toothbrush-holder](https://github.com/vsergeev/3d-toothbrush-holder) - 3D printable simple toothbrush holder made with FreeCAD
 * [3d-smartipi-touch-2-speaker-dock](https://github.com/vsergeev/3d-smartipi-touch-2-speaker-dock) - 3D printable speaker dock for the SmartiPi Touch 2 case made with OpenSCAD

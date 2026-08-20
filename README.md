@@ -13,6 +13,7 @@
 * [zig-pebble-sdk](https://github.com/vsergeev/zig-pebble-sdk) - Zig build script and wrapper for the Pebble SDK
 * [pebble-watchface-heartburn](https://github.com/vsergeev/pebble-watchface-heartburn) - Zenburn-esque watchface with a heart rate graph for the Pebble Time 2
 * [radfly](https://github.com/vsergeev/radfly) - SDR-based listening server for AM medium wave and shortwave radio stations built with Zig
+* [sprocket](https://github.com/vsergeev/sprocket) - Minimalist agent harness written in Zig
 * [snake.ts](https://github.com/vsergeev/snake.ts) - Simple console snake implementation written in TypeScript
 * [evolve110](https://github.com/vsergeev/evolve110) - Rule 110 implementation on the Ethereum blockchain written in Solidity/JavaScript
 * [rigexpert-tool](https://github.com/vsergeev/rigexpert-tool) - Tool to dump impedance sweeps from RigExpert antenna analyzers written in Python

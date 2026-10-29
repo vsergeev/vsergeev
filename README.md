@@ -40,6 +40,7 @@
 * [3d-parametric-toothpick](https://github.com/vsergeev/3d-parametric-toothpick) - 3D printable parametric FPV drone toothpick frame made with OpenSCAD
 * [3d-parametric-whoop-canopy](https://github.com/vsergeev/3d-parametric-whoop-canopy) - 3D printable parametric whoop canopy for FPV drones made with OpenSCAD
 * [3d-parametric-whoop](https://github.com/vsergeev/3d-parametric-whoop) - 3D printable parametric whoop frame and canopy (FPV drone) made with OpenSCAD
+* [3d-heltec-lora-v4-holder](https://github.com/vsergeev/3d-heltec-lora-v4-holder) - 3D printable holder for the Heltec WiFi LoRa 32 V4 made with FreeCAD
 * [3d-1s-lipo-battery-tray](https://github.com/vsergeev/3d-1s-lipo-battery-tray) - 3D printable parametric 1S LiPo battery tray made with OpenSCAD
 * [3d-yarn-gauge](https://github.com/vsergeev/3d-yarn-gauge) - 3D printable and CNC machineable yarn gauge made with FreeCAD
 * [3d-acrylic-light-stand](https://github.com/vsergeev/3d-acrylic-light-stand) - 3D printable parametric acrylic light stand made with FreeCAD
